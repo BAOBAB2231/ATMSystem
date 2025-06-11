@@ -41,6 +41,15 @@ Unity 기반으로 제작한 ATM 시뮬레이터입니다.
 
 ---
 
+## 사용 기술
+
+- **Unity** 2022.3.17f1
+- **C# (Visual Studio 사용)
+
+---
+
+# 사진 설명
+
 ## 시작화면
 ![image](https://github.com/user-attachments/assets/9ac7a3da-0266-41e4-9596-0ca275a42827)
 
@@ -73,5 +82,3 @@ Unity 기반으로 제작한 ATM 시뮬레이터입니다.
 잔액이 부족 할 경우 에러창이 뜹니다.
 
 ---
-
-
